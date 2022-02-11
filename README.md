@@ -1,6 +1,11 @@
-# Demo
-Just for practice!
+# Demo- Github Meets VsCode
 
-##Subheader
 
-Watch me become a pro at this!
+##Notes
+-Just for practice! Cloning a github repo using vscode. 
+
+-Was able to download and install Github & Gitbash. 
+
+-Generated an SSH key
+
+-Used git clone, git add, git commit, & git push
