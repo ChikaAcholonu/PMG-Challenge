@@ -8,4 +8,4 @@
 
 -Generated an SSH key
 
--Used git clone, git add, git commit, & git push
+-Used git clone, git add . or git add 'filename' , git commit -m "Add a message", & git push origin main
