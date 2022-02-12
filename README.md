@@ -8,4 +8,7 @@
 
 -Generated an SSH key
 
--Used git clone, git add . or git add 'filename' , git commit -m "Add a message", & git push origin main
+-Used git clone, git add, git status, git commit -m "Add a message" , & git push origin main
+
+## Created a New branch
+- git checkout -b "Test_branch" creates the new branch and switches you to it
